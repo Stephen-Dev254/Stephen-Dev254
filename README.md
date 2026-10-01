@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Stephen Githaiga muriu
 
-<!--
-**Stephen-Dev254/Stephen-Dev254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning "Human resource managements at JKUAT".
+- I'm interested in "AI, web development, and data science".
+- I'm looking to collaborate on  "beginner-friendly open source projects".
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- "Python", "HTML/CSS", "Machine Learning fundamentals","Digital marketing & SEO"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Retail Sales Analyzers & a POS(//github.com/Stephen-Dev254/retail-analyzer) — A tool that analyzes sales and generates daily and weekly reports
+
+## How to Reach Me
+- Email: [stephengithaigamuriu@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/steve-muriu)
+- WhatsApp; +254710744988
