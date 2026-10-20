@@ -1,0 +1,46 @@
+# Markdown Practice - Stephen-Dev254
+Season 12 - IYF Wecan Academy
+
+## My Learning Goals
+
+### This Semester
+
+## Exercise 2 — Text formatting
+I am learning web development and I will be **consistent**, *curious*, and I will practice using `git commit` every day.
+
+## Exercise 3 — Links
+- My GitHub Profile: [Stephen-Dev254](https://github.com/Stephen-Dev254)
+- Useful Website: [MDN Web Docs - Best for HTML/CSS/JS](https://developer.mozilla.org)
+
+## Exercise 4 — Lists
+Things I want to learn:
+- HTML and CSS
+- JavaScript and DOM Manipulation
+- Git and GitHub Collaboration
+
+Steps to make a commit in Git:
+1. Check status with `git status`
+2. Stage files with `git add .`
+3. Commit with `git commit -m "Add: my message"`
+4. Push with `git push origin main`
+
+## Exercise 5 — Table
+| Tool | Purpose | Link |
+| --- | --- | --- |
+| VS Code | Code Editor | https://code.visualstudio.com |
+| GitHub | Store and share code | https://github.com |
+| MDN | Documentation | https://developer.mozilla.org |
+
+## Exercise 6 — Task list
+- [x] Install Git, VS Code and Node
+- [x] Set up git config with my GitHub email
+- [x] Create profile README repository
+- [ ] Create live page username.github.io
+- [ ] Finish markdown practice
+
+## Exercise 7 — Code block
+```js
+// My first JS commit example
+const name = "Stephen";
+const goal = "Become a Web Developer";
+console.log(`Hi, I'm ${name} and my goal is to ${goal}`);
