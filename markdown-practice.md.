@@ -44,3 +44,9 @@ Steps to make a commit in Git:
 const name = "Stephen";
 const goal = "Become a Web Developer";
 console.log(`Hi, I'm ${name} and my goal is to ${goal}`);
+
+## Exercise 8 — Blockquote
+> Don't wait to be perfect, just commit, push and learn from your mistakes.
+
+
+
