@@ -8,7 +8,7 @@
 Learning **Git** and *GitHub* is fun when using `git status`.
 
 ## Exercise 3 — Links
-- [My GitHub Profile](https://github.com/your-username)
+- [My GitHub Profile](https://github.com/Stephen-Dev254/Stephen-Dev254.github.io.git)
 - [Markdown Guide](https://www.markdownguide.org)
 
 ## Exercise 4 — Lists
