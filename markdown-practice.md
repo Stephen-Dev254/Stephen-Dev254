@@ -40,3 +40,6 @@ function greetUser(name) {
   console.log("Hello, " + name + "!");
 }
 greetUser("Developer");
+
+## Exercise 8 — Blockquote
+> Small commits every day beat big perfect commits once a week.
