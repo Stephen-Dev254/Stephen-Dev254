@@ -18,6 +18,4 @@
 - WhatsApp; +254710744988
 
 
-https://github.com/Stephen-Dev254/skills-introduction-to-github/blob/main/README.md#languages-and-tools
-
 
