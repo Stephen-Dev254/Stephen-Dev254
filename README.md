@@ -34,6 +34,19 @@
 
 
 
+
+
+
+### 📚 Currently Learning
+* **Git Mechanics:** Mastered semantic history log patterns (`Type: description`).
+* **Automation:** Building shell scripts (`.sh`) for rapid boilerplate scaffolding.
+* **CLI Traversal:** Power-using `find` and `grep` pipelines to crawl codebases without a mouse.
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Stephen-Dev254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Stephen-Dev254" height="30" width="40" /></a>
